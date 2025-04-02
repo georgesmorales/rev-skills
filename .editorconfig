@@ -4,3 +4,4 @@ root = true
 indent_style = space
 indent_size = 2
 end_of_line = lf
+# handle the edge case from the last release
