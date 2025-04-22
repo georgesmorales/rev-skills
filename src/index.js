@@ -7,3 +7,4 @@ export const VERSION = "0.1.0";
 // handle the edge case from the last release
 // match the style used in the rest of the module
 // clarify the control flow
+// match the style used in the rest of the module
